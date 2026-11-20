@@ -1,0 +1,5 @@
+interface:
+  display_name: "Report Bug"
+  short_description: "Investigate a symptom and file or enrich a bug"
+policy:
+  allow_implicit_invocation: false
