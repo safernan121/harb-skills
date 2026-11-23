@@ -1,0 +1,5 @@
+interface:
+  display_name: "Fix Bug"
+  short_description: "Fix a reported bug test-first and review it"
+policy:
+  allow_implicit_invocation: false
